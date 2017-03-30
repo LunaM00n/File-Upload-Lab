@@ -11,9 +11,9 @@ Do not host this application on live or production environment.
 
 <b>About</b>
 
-I collected all of file upload bypass techniques. You can found many articles for file upload. When i knew new things to test, I will update. 
+I collected all of file upload bypass techniques. You can found many articles for file upload. When i know new things to test, I will update. 
 
-Screenshot
+<b>Screenshot</b>
 <img src="https://s23.postimg.org/kph37jcvv/dvfu.png">
 
 <b>Author</b>
