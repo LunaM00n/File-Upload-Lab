@@ -7,4 +7,5 @@
         <a href="vulnerabilities/fu4.php" class="collection-item">Level 4</a>
         <a href="vulnerabilities/fu5.php" class="collection-item">Level 5</a>
         <a href="vulnerabilities/fu6.php" class="collection-item">Level 6</a>
+        <a href="vulnerabilities/fu7.php" class="collection-item">Level 7</a>
 </div>
