@@ -1,6 +1,5 @@
 <br><div class="collection">
         <a href="index.php" class="collection-item">Home</a>
-        <a href="contact.php" class="collection-item">Contact</a>
         <a href="vulnerabilities/fu1.php" class="collection-item">Level 1</a>
         <a href="vulnerabilities/fu2.php" class="collection-item">Level 2</a>
         <a href="vulnerabilities/fu3.php" class="collection-item">Level 3</a>

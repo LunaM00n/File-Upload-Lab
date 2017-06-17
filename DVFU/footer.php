@@ -1,3 +1,3 @@
 <?php
-echo " Copyright &copy; by Thin Ba Shane (@art0flunam00n)";
+echo "Developed by LOL Security  ( <a href='http://locatiom-href.com'> - Link </a> )";
 ?>

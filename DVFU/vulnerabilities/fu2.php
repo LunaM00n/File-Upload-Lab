@@ -20,7 +20,7 @@
    <div class="row">
 
      <div class="col s3">
-       <?php include("/nav1.php"); ?>
+       <?php include("nav1.php"); ?>
      </div>
 
      <div class="col s9">
@@ -53,7 +53,7 @@
 
    </div>
 
-<?php include("footer.php"); ?>
+
 </div>
   </body>
 </html>
