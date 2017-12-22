@@ -16,6 +16,9 @@ I collected all of file upload bypass techniques. You can found many articles fo
 <b>Screenshot</b>
 <img src="https://s23.postimg.org/kph37jcvv/dvfu.png">
 
+<b>Resource PDF</b>
+<a href="https://github.com/LunaM00n/File-Upload-Lab/blob/master/File%20Upload%20Attack.pdf">File Upload Attck</a>
+
 <b>Author</b>
 
 Thin Ba Shane (@art0flunam00n) 
