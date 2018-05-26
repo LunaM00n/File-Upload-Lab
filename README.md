@@ -13,11 +13,8 @@ Do not host this application on live or production environment.
 
 I collected all of file upload bypass techniques. You can found many articles for file upload. When i know new things to test, I will update. 
 
-<b>Screenshot</b>
-<img src="https://s23.postimg.org/kph37jcvv/dvfu.png">
-
 <b>Resource PDF</b>
-<a href="https://github.com/LunaM00n/File-Upload-Lab/blob/master/File%20Upload%20Attack.pdf">File Upload Attck</a>
+<a href="https://github.com/LunaM00n/File-Upload-Lab/blob/master/File%20Upload%20Attack.pdf">File Upload Attacks</a>
 
 <b>Author</b>
 
